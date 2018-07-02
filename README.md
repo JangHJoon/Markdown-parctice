@@ -87,3 +87,81 @@ Links
 [reference]:https://github.com/
 [Go GitHub]:https://github.com/
 
+Image
+---
+```
+![sakura](sakura.jpg)
+![sakura_reference][pretty]
+
+[pretty]:sakura.jpg
+```
+![sakura](sakura.jpg)
+![sakura_reference][pretty]
+
+[pretty]:sakura.jpg
+
+
+Blockquotes
+---
+```
+> quotes text
+> github
+```
+> quotes text  
+> github
+
+Inline code
+---
+```
+I think you should use an
+`<addr>` element here instead.
+```
+I think you should use an
+`<addr>` element here instead.
+
+
+Code Block
+---
+
+```
+```python
+def func():
+  print("Hatsune")
+  print("Miku")
+  pass
+\```
+```
+
+
+```python
+def func():
+  print("Hatsune")
+  print("Miku")
+  pass
+```
+
+Task Lists
+---
+```
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+```
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+Table
+---
+```
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+```
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
