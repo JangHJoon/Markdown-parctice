@@ -50,10 +50,8 @@ List
 * item3
 
 1. item1
-2. item2
-  1. subitem1
-    1. subitem2
-3. item3
+1. item2
+1. item3
 ```
 
 - item1
@@ -66,19 +64,26 @@ List
 1. item2
 1. item3
 
-- item1
-+ item2
-  - subitem1
-    * subitem2
-* item3
+Links
+---
+```
+[GitHub](https://github.com/)
+<https://github.com/>
+[GitHub][1]
+[GitHub][reference]
+[Go GitHub]
 
-1. item1
-1. item2
-1. item3
-1. item1
-2. item2
-  1. subitem1
-    1. subitem2
-3. item3
+[1]:https://github.com/
+[reference]:https://github.com/
+[Go GitHub]:https://github.com/
+```
+[GitHub](https://github.com/)  
+<https://github.com/>  
+[GitHub][1]  
+[GitHub][reference]  
+[Go GitHub]  
 
+[1]:https://github.com/
+[reference]:https://github.com/
+[Go GitHub]:https://github.com/
 
