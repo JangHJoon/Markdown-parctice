@@ -139,6 +139,14 @@ def func():
   print("Miku")
   pass
 ```
+Supported programing languages from <https://highlightjs.org/static/demo/> 
+
+InLine Code
+---
+```
+this is `InLine Code`
+```
+this is `InLine Code`
 
 Task Lists
 ---
@@ -165,3 +173,38 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+Horizontal Rule
+---
+```
+---
+***
++++
+===
+___
+
+```
+---
+***
++++
+===
+___
+
+YouTube Videos
+---
+```
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+``
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+$-b \pm \sqrt{b^2 - 4ac} \over 2a$
+$x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
+$\forall x \in X, \quad \exists y \leq \epsilon$
