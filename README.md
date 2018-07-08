@@ -124,12 +124,12 @@ Code Block
 ---
 
 ```
- ```python
- def func():
-   print("Hatsune")
-   print("Miku")
-   pass
- ```
+    ```python
+    def func():
+      print("Hatsune")
+      print("Miku")
+      pass
+    ```
 ```
 
 
@@ -188,13 +188,11 @@ Horizontal Rule
 ```
 ---
 ***
-===
 ___
 
 ```
 ---
 ***
-===
 ___
 
 
@@ -204,5 +202,5 @@ Emoji
 ```
 :station::ink:
 ```
-:station::link:
+:station::link:  
 check out <https://www.webpagefx.com/tools/emoji-cheat-sheet/>
