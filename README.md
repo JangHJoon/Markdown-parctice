@@ -124,12 +124,12 @@ Code Block
 ---
 
 ```
-    ```python
-def func():
-  print("Hatsune")
-  print("Miku")
-  pass
-    ```
+ ```python
+ def func():
+   print("Hatsune")
+   print("Miku")
+   pass
+ ```
 ```
 
 
